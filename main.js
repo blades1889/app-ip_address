@@ -1,3 +1,4 @@
+
 /*
   Import the ip-cidr npm package.
   See https://www.npmjs.com/package/ip-cidr
@@ -21,7 +22,7 @@ class IpAddress {
     // For more information, consult the Log Class guide on the Itential
     // Developer Hub https://developer.itential.io/ located
     // under Documentation -> Developer Guides -> Log Class Guide
-    log.info('Starting the IpAddress product.');
+    //log.info('Starting the IpAddress product.');
   }
 
     getFirstIpAddress(cidrStr, callback) {
